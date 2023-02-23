@@ -1,0 +1,16 @@
+[India vs Australia, India vs England, India vs Pakistan, India vs Newzealand, Australia vs England, Australia vs Pakistan, Australia vs Newzealand, England vs Pakistan, England vs Newzealand, Pakistan vs Newzealand]
+India
+1
+3
+Australia
+1
+3
+England
+3
+1
+Pakistan
+1
+3
+Newzealand
+4
+0
