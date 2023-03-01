@@ -1,0 +1,3 @@
+Enter a String
+a man is having a hammer
+{a=2, having=1, hammer=1, is=1, man=1}
